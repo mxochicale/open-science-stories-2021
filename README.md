@@ -1,4 +1,4 @@
-# Open Science Stories by [Heidi Seibold](https://twitter.com/HeidiBaya)
+# Open Science Stories (OSS) by [Heidi Seibold](https://twitter.com/HeidiBaya)
 
 
 ## My Fully Open Access PhD thesis 
@@ -9,11 +9,9 @@ We'd love to hear your story! If you think you might have a story to tell, write
 
 This podcast is licensed under CC-BY 4.0
 
-RSS feed: anchor.fm/s/46287364/podcast/rss
-Contact: opensciencestories@gmail.com
+RSS feed: anchor.fm/s/46287364/podcast/rss  
+Contact: opensciencestories@gmail.com  
 
 ## References 
 https://anchor.fm/opensciencestories/
-
-
 
