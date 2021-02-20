@@ -1,7 +1,8 @@
 # Open Science Stories (OSS) by [Heidi Seibold](https://twitter.com/HeidiBaya)
 
 
-## My Fully Open Access PhD thesis 
+## Title 
+
 
 
 ## Learn more about OSS 
