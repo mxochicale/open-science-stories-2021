@@ -53,10 +53,11 @@ are big motivations for me to not only create new knowledge but to make the effo
 of putting those findings open accessible and reproducible for everyone.
 Doing good open access science still has many challenges, 
 but I am certain that my little contributions
-(such as fully open accessible PhD thesis, frameworks for open scientific communications, to mention a few)
+(such as the publication of a fully open accessible PhD thesis or the development of frameworks for open scientific communications)
+as well contributions of others such as this amazing podcast
 might provide to the next generation of scientists 
 a more legitimate scientific environment 
-where science can be more reproducible, inclusive, transparent, reusable and open accessible.
+where science can be more reproducible, inclusive, transparent and open accessible.
 
 # Outro (Heidi)
 Thank you for listening to Open Science Stories. If you have a story to tell or you want to provide feedback or inspiration, 
