@@ -5,57 +5,62 @@ Welcome to “Open Science Stories”, where we explain Open Science concepts us
 
 ## Concept (Heidi)
 Today’s story comes from Miguel Xochicale who is a postdoctoral researcher at the School of Biomedical Engineering and Imaging Sciences at King's College London,
-where is researching ultrasound-guidance interventions and his putting together areas in medical imaging, AI and robotics.
+where is researching ultrasound-guidance interventions along the areas of medical imaging, AI and robotics.
 
 ## Story (Guest)
 Miguel's story revolves around his journey of practicing Open Science that goes from:
 early experiences on limited exposure to open access knowledge,
 his migration from Windows to GNU/Linux OS, 
-to make data, code and scientific outcomes open accessible.
+and current challenges of practicing open science.
 
 ## Explanation (Guest)
-Hi Everyone. My name Miguel Xochicale doing research in medical imaging, ai and robotics
-and passionate about open science. So in the coming minutes I would like to share a bit of my journey in practicing open science
+Hi Everyone. My name Miguel Xochicale, I am a postdoctoral researcher investigating areas in medical imaging, AI and robotics
+and also passionate about open science. 
+So in the coming minutes I would like to share a bit of my journey in practicing open science
 on how I started, what I have learnt and where I am heading to. 
 
-[_* Using pirate software_]  
+[_* Using pirate software_]    
 I became genuinely interested in science when I was in my bachelor degree but to my surprise I faced 
 the experience of paywalls for papers as well as limited software functions due to close licence. 
 So, my thirst to knowledge led me to do unethical behaviour to then consume pirate software.
 However, I did not feel that was the right direction of doing good science to which 
-such constant search led me to discover GNU/Linux OS. 
-I was so happy to heard that GNU/Linux OS allows users to modify, to share and to distribute software for free! 
+such constant search led me to discover GNU/Linux operating system (OS), in short LINUX
+I was so happy to heard that GNU/Linux allows users to modify, to share and to distribute software for free! 
 Amazing! isn't it?
 
-[_* Migration to GNU/Linux OS_]
-However, back in Mexico around 2000, I experienced a bit of a steep learning curve of using GNU/Linux 
-because I knew few GNU/Linux users, to then the few supported hardware for my computers.
-But luckily thorough the previous two decades, I have meet more GNU/Linux users, 
-I have sensed more activity in varirs forum and the GNU/Linux environment has been become more friendly. 
+[_* Migration to GNU/Linux OS_]   
+However, back in Mexico around the year of 2000, I experienced a bit of a steep learning curve of using GNU/Linux OS 
+because I knew few LINUX users, to then found the few supported hardware for my computers.
+But luckily thorough the previous two decades, I have meet more LINUX users, 
+I have sensed more activity in various forums, and the LINUX environment has been become more friendly. 
 Similarly, many projects such as Ubuntu or Mozilla are now good examples of functional business models 
 that allow their development moving forward and keep growing their communities.
 
-[_* no free knowledge_]
+[_* no free knowledge_]   
 But that is the case of software, how about knowledge?
 You might have experienced that the state-of-the-art of various areas of knowledge is not fully available unless 
 of course you are affiliated to a university that pays for those accessibly fees.
 If that is not your case, then there's actually the alternative to do unethical behaviour and 
-get such manuscript using sci-hub to get access to the latest advances of various areas of knowledge. 
-Again that, perhaps, is not the proper way to practice good science to which around 2013 I found github
-as great discovery where users not only shared openly code but also their knowledge via pre-prints in arxiv. 
+get such manuscript using sci-hub.
+Again that, perhaps, that is not the proper way to practice good science to which around 2013 I found GitHub
+as great discovery where users not only shared openly code but also their knowledge via pre-prints using ArXiv. 
 
-[_* Practicing and making Open Science_]
-So, the free software in GNU/Linux, the open access repository for pre-prints, 
-and the great spirit of GitHub user to share code 
+[_* Practicing and making Open Science_]   
+So, the free software in GNU/Linux, 
+the great spirit of GitHub user to share code,
+and the open access repository for pre-prints
 are big motivations for me to not only create new knowledge but to make the effort 
 of putting those findings open accessible and reproducible for everyone.
 Doing good open access science still has many challenges, 
-but I am certain that my little contributions might provide to the next generation of scientists 
+but I am certain that my little contributions
+(such as fully open accessible PhD thesis, frameworks for open scientific communications, to mention a few)
+might provide to the next generation of scientists 
 a more legitimate scientific environment 
-where science can be reproducible, inclusive, transparent, reusable and open accessible.
+where science can be more reproducible, inclusive, transparent, reusable and open accessible.
 
 # Outro (Heidi)
-Thank you for listening to Open Science Stories. If you have a story to tell or you want to provide feedback or inspiration, please go to anchor.fm/osstories and leave a short message or message us under opensciencestories@gmail.com.
+Thank you for listening to Open Science Stories. If you have a story to tell or you want to provide feedback or inspiration, 
+please go to anchor.fm/osstories and leave a short message or message us under opensciencestories@gmail.com.
 Thanks to everyone who supported the show today! Thanks to <name> for <action>, <name> for <action>, and <name> for <action>. 
 My name is Heidi Seibold. You can reach me on Twitter under @HeidiBaya.
 
@@ -65,6 +70,9 @@ My name is Heidi Seibold. You can reach me on Twitter under @HeidiBaya.
 
 
 # BLURS
+
+
+to get access to the latest advances of various areas of knowledge. 
 
 ## Concept (Heidi)
 In this episode, Miguel Xochicale, will take you into his journey of practicing Open Science: a journey that is still in progress. 
