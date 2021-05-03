@@ -8,10 +8,10 @@ Today’s story comes from Miguel Xochicale who is a postdoctoral researcher at 
 where is researching ultrasound-guidance interventions along the areas of medical imaging, AI and robotics.
 
 ## Story (Guest)
-Miguel's story revolves around his journey of practicing Open Science that goes from:
-early experiences on limited exposure to open access knowledge,
-his migration from Windows to GNU/Linux OS, 
-and current challenges of practicing open science.
+Hi Everyone. My name Miguel Xochicale, I am a postdoctoral researcher investigating areas in medical imaging, 
+AI and robotics and also passionate about open science. 
+So in the coming minutes I would like to share a bit of my journey in practicing open science 
+on how I started, what I have learnt and where I am heading to.
 
 ## Explanation (Guest)
 Hi Everyone. My name Miguel Xochicale, I am a postdoctoral researcher investigating areas in medical imaging, AI and robotics
@@ -20,44 +20,52 @@ So in the coming minutes I would like to share a bit of my journey in practicing
 on how I started, what I have learnt and where I am heading to. 
 
 [_* Using pirate software_]    
-I became genuinely interested in science when I was in my bachelor degree but to my surprise I faced 
-the experience of paywalls for papers as well as limited software functions due to close licence. 
-So, my thirst to knowledge led me to do unethical behaviour to then consume pirate software.
-However, I did not feel that was the right direction of doing good science to which 
-such constant search led me to discover GNU/Linux operating system (OS), in short LINUX
-I was so happy to heard that GNU/Linux allows users to modify, to share and to distribute software for free! 
+I became genuinely interested in science when I was in my bachelor degree 
+but to my surprise I faced the experience of paywalls for papers 
+as well as limited software functions due to close licence. 
+So, my thirst for knowledge led me to use pirate software, which felt unethical. 
+I did not feel that was the right way of doing good science. 
+My search for better alternatives led me to discover GNU/Linux operating system (in short Linux). 
+I was so happy to hear that Linux allows users 
+to modify, to share and to distribute software for free! 
 Amazing! isn't it?
 
+
 [_* Migration to GNU/Linux OS_]   
-However, back in Mexico around the year of 2000, I experienced a bit of a steep learning curve of using GNU/Linux OS 
-because I knew few LINUX users, to then found the few supported hardware for my computers.
-But luckily thorough the previous two decades, I have meet more LINUX users, 
-I have sensed more activity in various forums, and the LINUX environment has been become more friendly. 
-Similarly, many projects such as Ubuntu or Mozilla are now good examples of functional business models 
-that allow their development moving forward and keep growing their communities.
+However, around the year of 2000 in Mexico, by the way soy Mexicano, 
+I experienced a bit of a steep learning curve of using Linux because I knew few LINUX users. 
+But luckily during the two decades that followed, I met more LINUX users. 
+I have sensed more activity in various forums, and the LINUX environment has become more friendly. 
+Similarly, many projects such as Ubuntu or Mozilla are now good examples of 
+functional business models that allow their development moving forward and keep growing their communities.
+
 
 [_* no free knowledge_]   
-But that is the case of software, how about knowledge?
-You might have experienced that the state-of-the-art of various areas of knowledge is not fully available unless 
-of course you are affiliated to a university that pays for those accessibly fees.
+If that is the case of software, how about knowledge? 
+You might have experienced that the state-of-the-art of various areas of knowledge is not fully available 
+unless of course you are affiliated to a university that pays for those access fees. 
 If that is not your case, then there's actually the alternative to do unethical behaviour and 
-get such manuscript using sci-hub.
-Again that, perhaps, that is not the proper way to practice good science to which around 2013 I found GitHub
-as great discovery where users not only shared openly code but also their knowledge via pre-prints using ArXiv. 
+get such manuscripts using sci-hub. 
+Again, perhaps, that is not the proper way to practice good science. 
+Then around 2013 I found GitHub where users shared code openly. 
+Additionally, users in GitHub share their knowledge using preprint repositories like ArXiv. 
+Preprints, by the way, are manuscripts that can be read freely, but that are usually not yet peer reviewed.
+
 
 [_* Practicing and making Open Science_]   
-So, the free software in GNU/Linux, 
-the great spirit of GitHub user to share code,
-and the open access repository for pre-prints
-are big motivations for me to not only create new knowledge but to make the effort 
-of putting those findings open accessible and reproducible for everyone.
-Doing good open access science still has many challenges, 
-but I am certain that my little contributions
-(such as the publication of a fully open accessible PhD thesis or the development of frameworks for open scientific communications)
-as well contributions of others such as this amazing podcast
+So, the free software in Linux, 
+the great spirit of GitHub users to share code, 
+and the open access repository for pre-prints 
+are a big motivation for me to not only create new knowledge 
+but to make the effort of putting those findings open, accessible and reproducible for everyone!
+Doing good and open science still has many challenges, 
+but I am certain that my little contributions 
+(such as the publication of a fully open accessible PhD thesis or the development of frameworks for open scientific communication)
+as well contributions of many others such as this amazing podcast 
 might provide to the next generation of scientists 
 a more legitimate scientific environment 
-where science can be more reproducible, inclusive, transparent and open accessible.
+where science can be more reproducible, inclusive, transparent and openly accessible.
+
 
 # Outro (Heidi)
 Thank you for listening to Open Science Stories. If you have a story to tell or you want to provide feedback or inspiration, 
