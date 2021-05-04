@@ -10,7 +10,16 @@
 5. Export audio with ogg extension using quality 0 or other from 0 to 10.
 6. Test it by play it using VLC. 
 
+![fig](screenshotfrom2021-05-04T08-12-27.png)
+
+
+
 ## Trials
+* trial05 and final
+tryied four times recordings 
+
+
+
 * trial04 
 Recorded with audio quality 5 and exported with ogg format
 * trial03 
