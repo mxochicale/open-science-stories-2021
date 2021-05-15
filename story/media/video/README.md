@@ -1,6 +1,5 @@
 # Rendering video with Kdenlive, Version 19.12.3
 
-
 ## Instructions for rendering video file
 1. Open project
 2. Select and drop ogg audio file into the project bin section
